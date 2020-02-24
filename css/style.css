@@ -1,0 +1,105 @@
+.main-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 4.2vh;
+}
+
+
+/* .header-icons {
+    position: absolute;
+    right: 6vh;
+} */
+
+.logo {
+    height: 8vh
+}
+
+.titles {
+    margin-left: 20vh;
+    margin-top: 11vh;
+}
+
+.main-title {
+    height: 14vh;
+    width: 67vh;
+    font-size: 5.8vh;
+    color: #947DCE;
+    opacity: 1;
+}
+
+.second-title {
+    width: 451px;
+    height: 24px;
+    font-size: 20px;
+    color: #C5CBCD;
+    opacity: 1;
+    font-style: italic;
+}
+
+.start-button {
+    margin-top: 17vh;
+    border: 1px #7fd1d8 solid;
+    border-radius: 20px;
+    color: #7fd1d8;
+    top: 427px;
+    left: 140px;
+    width: 156px;
+    height: 34px;
+    background: transparent url('img/Component 1 – 30.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.for-background-img {
+    position: relative;
+    background-image: url(../images/lang_box.png);
+    width: 7.3vh;
+    height: 8.3vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #7fd1d8;
+    font-style: italic;
+}
+
+li:nth-child(2) {
+    margin-right: 2vh;
+    margin-left: 2vh;
+}
+
+.post {
+    background-image: none;
+}
+
+.nav-icon {
+    position: absolute;
+}
+
+.posit {
+    left: 20%;
+    top: 33%;
+}
+
+.header-ul {
+    display: flex;
+}
+
+.header-icon {
+    position: absolute;
+    right: 6vh;
+}
+
+.two-main-dives {
+    display: flex;
+}
+
+.carousel-indicators {
+    bottom: 15vh;
+    justify-content: left;
+    margin-left: 20vh;
+    margin-right: 0;
+}
+
+.avatar {
+    height: 82vh;
+    width: 75vh;
+}
