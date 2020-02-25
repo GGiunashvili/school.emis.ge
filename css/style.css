@@ -112,15 +112,15 @@ li:nth-child(2) {
 }
 
 .carousel-indicators {
-    bottom: 15vh;
+    bottom: 5vh;
     justify-content: left;
     margin-left: 20vh;
     margin-right: 0;
 }
 
 .avatar {
-    height: 75.6vh;
-    width: 60.6vh;
+    height: 75.7vh;
+    width: 67.6vh;
 }
 
 #bootstrap-li {
