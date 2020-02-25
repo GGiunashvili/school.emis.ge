@@ -1,3 +1,13 @@
+@font-face {
+    src: url(../fonts/alk-sanet-webfont.ttf);
+    font-family: alk-sanet;
+}
+
+@font-face {
+    src: url(../fonts/dejavu-sans-oblique-webfont.ttf);
+    font-family: Dejavu Sans;
+}
+
 .main-header {
     display: flex;
     justify-content: center;
@@ -15,11 +25,13 @@
 }
 
 .titles {
+    margin-right: 12.2vh;
     margin-left: 20vh;
     margin-top: 11vh;
 }
 
 .main-title {
+    font-family: alk-sanet;
     height: 12.9vh;
     width: 60.5vh;
     font-size: 5.2vh;
@@ -28,6 +40,7 @@
 }
 
 .second-title {
+    font-family: Dejavu Sans;
     width: 58.8vh;
     height: 3.14vh;
     font-size: 2.6vh;
@@ -47,7 +60,12 @@
     opacity: 1;
 }
 
+.start-button:hover {
+    box-shadow: 2px 2px 2px 2px #F8D24B;
+}
+
 .for-background-img {
+    cursor: pointer;
     position: relative;
     background-image: url(../images/lang_box.png);
     width: 7.3vh;
@@ -74,9 +92,10 @@ li:nth-child(2) {
 }
 
 .posit {
-    left: 1.7vh;
+    left: 1.2vh;
     top: 2.7vh;
     font-size: 2.4vh;
+    font-family: Dejavu Sans;
 }
 
 .header-ul {
@@ -100,8 +119,8 @@ li:nth-child(2) {
 }
 
 .avatar {
-    height: 82vh;
-    width: 75vh;
+    height: 75.6vh;
+    width: 60.6vh;
 }
 
 #bootstrap-li {
