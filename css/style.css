@@ -21,7 +21,7 @@
 } */
 
 .logo {
-    height: 8vh
+    height: 7vh;
 }
 
 .titles {
@@ -68,8 +68,8 @@
     cursor: pointer;
     position: relative;
     background-image: url(../images/lang_box.png);
-    width: 7.3vh;
-    height: 8.3vh;
+    width: 6.3vh;
+    height: 7.3vh;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -88,13 +88,13 @@ li:nth-child(2) {
 
 .nav-icon {
     position: absolute;
-    height: 8.1vh;
+    height: 7.1vh;
 }
 
 .posit {
     left: 1.2vh;
-    top: 2.7vh;
-    font-size: 2.4vh;
+    top: 2.6vh;
+    font-size: 2vh;
     font-family: Dejavu Sans;
 }
 
