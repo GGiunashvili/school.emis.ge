@@ -161,4 +161,21 @@ li:nth-child(2) {
     font-family: alk-sanet;
     font-size: 3.9vh;
     cursor: pointer;
+    color: #C5CBCD;
+}
+
+.number-one:hover {
+    color: #947DCE;
+}
+
+.number-two:hover {
+    color: #DC6C85;
+}
+
+.number-three:hover {
+    color: #F8D24B;
+}
+
+.number-four:hover {
+    color: #7FD1D8;
 }
