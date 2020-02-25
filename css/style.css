@@ -52,6 +52,11 @@
     height: 4.4vh;
     background: transparent url('img/Component 1 – 30.png') 0vh 0vh no-repeat padding-box;
     opacity: 1;
+    box-shadow: 0.1vh 0.1vh 1vh #7fd1d8;
+    width: 20.3vh;
+    height: 4.4vh;
+    font-size: 2vh;
+    font-family: alk-sanet;
 }
 
 .start-button:hover {
@@ -82,7 +87,7 @@ li:nth-child(2) {
 
 .nav-icon {
     position: absolute;
-    height: 7.1vh;
+    height: 6.8vh;
 }
 
 .posit {
