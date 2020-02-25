@@ -156,3 +156,9 @@ li:nth-child(2) {
 .page-four {
     color: #7FD1D8;
 }
+
+.slider-number {
+    font-family: alk-sanet;
+    font-size: 3.9vh;
+    cursor: pointer;
+}
